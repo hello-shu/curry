@@ -1,37 +1,37 @@
 ## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+---
+  layout: default
+  ---
+<body>
+<h1 id="title"><strong>All about dogs!!!</strong></h1>
 
-You can use the [editor on GitHub](https://github.com/hello-shu/curry/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img class="fox" src="https://upload.wikimedia.org/wikipedia/commons/4/43/New_Guinea_Singing_Dog_on_trail-Cropped.jpg"
+alt="dog">
+<h2 class="title">Contents</h2>
+<ul class="info">
+<li><a href="#dogs">Dogs</a></li>
+<li><a href="#types">Types of different dogs</a></li>
+</ul>
+<h2 class="title" id="dogs">Dogs</h2>
+<p class="info">  Dogs are from the biological family of <i>Canidae</i>.<br> In the Canidae family there's only carnivores, such as wolves, coyotes, foxes, jackals, dogs...</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2 class="title" id="types">Types of different dogs</h2>
+<p class="info">At the time of this writing the FCI recognizes 339 breeds of dogs which are divided into 10 groups <br>
+  based upon the dog’s purpose or function or upon its appearance or size. The 10 groups are:</p>
+<ol id="list-types">
+<li>Sheepdogs and Cattle Dogs other than Swiss Cattle Dogs (this group includes most of the dogs found classified as "herding dogs" by other kennel clubs).</li><br>
+<li>Pinscher and Schnauzer - Molossoid Breeds - Swiss Mountain and Cattle Dogs and Other Breeds (the Molossian breeds include the dogs known as the mastiffs by most other kennel clubs)</li><br>
+<li>Terriers</li><br>
+<li>Dachshunds</li><br>
+<li>Spitz and Primitive Types</li><br>
+<li>Scenthounds and Related Breeds</li><br>
+<li>Pointers and Setters</li><br>
+<li>Retrievers - Flushing Dogs - Water Dogs</li><br>
+<li>Companion and Toy Dogs</li><br>
+<li>Sighthounds</li><br>
+</ol>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hello-shu/curry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
