@@ -1,9 +1,11 @@
 ## Welcome to GitHub Pages
 <!DOCTYPE html>
 <html>
+<head>
 ---
-  layout: default
-  ---
+layout: default
+---
+</head>
 <body>
 <h1 id="title"><strong>All about dogs!!!</strong></h1>
 
